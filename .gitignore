@@ -1,0 +1,6 @@
+mylog.txt
+mylog.log
+/mylogs.log     
+*.log
+*.cpp
+cpp/
